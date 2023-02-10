@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Anchor Digital Media</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="title" content="">
+    <meta name="author" content="">
+    <link rel="canonical" href="https://makingofthechef.com/">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://anchordigital.tv/themes/adm/assets/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel='stylesheet' type='text/css'>
+
+    <link href="https://anchordigital.tv/combine/df35d546034ac776ecbbc2f5a121d3bd-1441059131" rel="stylesheet">
+<style>
+  .mfp-content {
+    /*width: 100%;*/
+    /*max-width: 700px;*/
+  }
+  .introvideo {
+    /*background: #EBE8E8;*/
+    /*position: absolute;*/
+    /*top: -3px;*/
+    /*left: 0;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);*/
+  }
+</style>    <link href="https://anchordigital.tv/combine/7f9522d9e38143be606cfc7c01292514-1443527601" rel="stylesheet">
+
+    <script src="https://anchordigital.tv/themes/adm/assets/js/modernizr.custom.js"></script>
+</head>
+<body class="home home-t-h">
+    <!-- PRELOADER-->
+    <div id="preloader">
+        <div class="preloader-container">
+            <h4 class="preload-logo triggerAnimation animated" data-animate="fadeInLeft"></h4>
+            <h4 class="back-logo"></h4>
+            <img src="https://anchordigital.tv/themes/adm/assets/images/preloader.gif" class="preload-gif" alt="preload-image">
+        </div>
+    </div>
+
+    <!-- END PRELOADER -->
+    <!-- Start template style -->
+    <div class="dark light">
+        <!--Start of Header-->
+<header class="transparent">
+    <div class="main-header headerstyle-1">
+
+        <div class="container">
+            <div class="row">
+                <!--Start of Logo-->
+                <div class="col-md-2 pull-left">
+                    <a href="https://anchordigital.tv"><img src="https://anchordigital.tv/themes/adm/assets/images/logo.png" alt="logo"/></a>
+                </div>
+                <!--End of Logo-->
+
+                <!--Start of Menu-->
+                <div class="col-md-10 wr-menu-section">
+
+                    <nav class="pull-right primary-menu spo-primary-navigation ">
+                        <div id="navbar-collapse-1" class="navbar-collapse collapse ">
+                            <div id="templatemo_menu" class="ddsmoothmenu">
+                                <ul>
+                                    <li><a href="https://anchordigital.tv">Home</a></li>
+                                    <li><a href="https://anchordigital.tv/about">About</a></li>
+                                    <li><a href="https://anchordigital.tv/contact">Contact</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+
+                    <div class="clear"></div>
+                    <!-- RESPONSIVE NAVIGATION -->
+                    <nav class="spo-responsive-navigation pull-left">
+                        <span class="spo-responsive-trigger"></span>
+                        <ul class="wr-res-menu">
+                            <li><a href="https://anchordigital.tv">Home</a></li> 
+                            <li><a href="https://anchordigital.tv/about">About</a></li>
+                            <li><a href="https://anchordigital.tv/contact">Contact</a></li>
+
+                        </ul>
+                    </nav>
+
+
+                </div>
+                <!--End of Menu-->
+            </div>
+        </div>
+
+    </div>
+</header>
+<!--End of Header-->        <!-- Content -->
+        <!--video-->
+<section class="ins-color">
+  <div class="video-content-wr">
+    <div class="video-image wp1 wow fadeIn" data-wow-delay="0.9s">
+            <a href="#intro-popup" class="wr-nw-play pop mfp-inline" title="Video"> ></a>
+      <img src="https://anchordigital.tv/themes/adm/assets/images/splash.jpg" alt="" class="big-video-img">
+
+    </div>
+  </div>
+  <div id="intro-popup" class="mfp-hide">
+    <div class="introvideo">
+      <video id="intro" class="video-js vjs-default-skin vjs-big-play-centered"
+             controls preload="auto" width="100%" height="600"
+             poster="https://anchordigital.tv/themes/adm/assets/images/splash.jpg"
+             data-setup='{}'>
+        <source src="https://anchordigital.tv/themes/adm/assets/video/adm_480p_lean.mov" type='video/quicktime' />
+        <source src="https://anchordigital.tv/themes/adm/assets/video/ADM PortfoilioLean.mp4" type='video/mp4' />
+        <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+      </video>
+    </div>
+  </div>  <div class="video-info">
+    <div class="container">
+      <div class="row">
+                      </div>
+    </div>
+  </div>
+
+</section>
+
+<!--video-->
+
+
+<!--End New Video-->
+
+<!--Button Area-->
+
+
+<!--End Button Area-->
+        <!-- Footer -->
+        <!--Start of Footer-->
+<section id="footer"> 
+    <!--Footer Copyright-->
+    <div class="footer-copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="pull-left">&copy; Copyright 2015 Anchor Digital Media</p>
+                    <p class="pull-right"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dcb5b2bab39cbdb2bfb4b3aeb8b5bbb5a8bdb0f2a8aa">[email&#160;protected]</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!--Footer Copyright-->
+
+</section>
+<!--End of Footer-->    </div>
+
+    <!-- Scripts -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://anchordigital.tv/combine/205db01b1fa7fdc328b4977eb4b93d9f-1443516487"></script>
+    <script>
+        jQuery(function ($) {
+            'use strict';
+
+            // -------------------------------------------------------------
+            //   Basic Navigation
+            // -------------------------------------------------------------
+            (function () {
+                var $frame = $('#basic');
+                var $slidee = $frame.children('ul').eq(0);
+                var $wrap = $frame.parent();
+
+                // Call Sly on frame
+                $frame.sly({
+                    horizontal: 1,
+                    itemNav: 'basic',
+                    smart: 1,
+                    activateOn: 'click',
+                    mouseDragging: 1,
+                    touchDragging: 1,
+                    releaseSwing: 1,
+                    startAt: 3,
+                    scrollBar: $wrap.find('.scrollbar'),
+                    scrollBy: 1,
+                    pagesBar: $wrap.find('.pages'),
+                    activatePageOn: 'click',
+                    speed: 300,
+                    elasticBounds: 1,
+                    easing: 'easeOutExpo',
+                    dragHandle: 1,
+                    dynamicHandle: 1,
+                    clickBar: 1,
+
+                    // Buttons
+                    forward: $wrap.find('.forward'),
+                    backward: $wrap.find('.backward'),
+                    prev: $wrap.find('.prev'),
+                    next: $wrap.find('.next'),
+                    prevPage: $wrap.find('.prevPage'),
+                    nextPage: $wrap.find('.nextPage')
+                });
+
+                // To Start button
+                $wrap.find('.toStart').on('click', function () {
+                    var item = $(this).data('item');
+                    // Animate a particular item to the start of the frame.
+                    // If no item is provided, the whole content will be animated.
+                    $frame.sly('toStart', item);
+                });
+
+                // To Center button
+                $wrap.find('.toCenter').on('click', function () {
+                    var item = $(this).data('item');
+                    // Animate a particular item to the center of the frame.
+                    // If no item is provided, the whole content will be animated.
+                    $frame.sly('toCenter', item);
+                });
+
+                // To End button
+                $wrap.find('.toEnd').on('click', function () {
+                    var item = $(this).data('item');
+                    // Animate a particular item to the end of the frame.
+                    // If no item is provided, the whole content will be animated.
+                    $frame.sly('toEnd', item);
+                });
+
+                // Add item
+                $wrap.find('.add').on('click', function () {
+                    $frame.sly('add', '<li>' + $slidee.children().length + '</li>');
+                });
+
+                // Remove item
+                $wrap.find('.remove').on('click', function () {
+                    $frame.sly('remove', -1);
+                });
+                $('.radioBtn a').on('click', function () {
+                    var sel = $(this).data('title');
+                    var tog = $(this).data('toggle');
+                    $('#' + tog).prop('value', sel);
+
+                    $('a[data-toggle="' + tog + '"]').not('[data-title="' + sel + '"]').removeClass('active').addClass('notActive');
+                    $('a[data-toggle="' + tog + '"][data-title="' + sel + '"]').removeClass('notActive').addClass('active');
+                });
+            }());
+
+        });
+    </script>
+    <script src="/modules/system/assets/js/framework.js"></script>
+<script src="/modules/system/assets/js/framework.extras.js"></script>
+<link href="/modules/system/assets/css/framework.extras.css" rel="stylesheet">
+    <script src="https://anchordigital.tv/combine/78ff2ba88f11d08d8ef3af1627b337e8-1441059131"></script>
+
+<script>
+    jQuery(function ($) {
+        'use strict';
+
+        // -------------------------------------------------------------
+        //   Basic Navigation
+        // -------------------------------------------------------------
+        (function () {
+            videojs.options.flash.swf = 'http://vjs.zencdn.net/4.0.3/video-js.swf';
+
+            var popup = $('.pop'),
+             player = videojs('intro');
+            popup.magnificPopup({
+                callbacks: {
+                    open: function () {
+                        var video = $(".video-js")[0];
+                        video.player.load();
+                        video.currentTime = 0;
+                        video.player.play();
+                    }
+                }
+            });
+            player.on('ended', function(){
+                $.magnificPopup.close();
+            });
+        }());
+
+    });
+</script>    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68224885-1', 'anchordigital.tv');
+  ga('send', 'pageview');
+
+</script>    </body>
+</html>
